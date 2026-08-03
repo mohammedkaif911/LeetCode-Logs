@@ -24,10 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/mohammedkaif911/LeetCode-Logs/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/mohammedkaif911/LeetCode-Logs/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/mohammedkaif911/LeetCode-Logs/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/mohammedkaif911/LeetCode-Logs/tree/master/0088-merge-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mohammedkaif911/LeetCode-Logs/tree/master/0011-container-with-most-water) |
+| [0088-merge-sorted-array](https://github.com/mohammedkaif911/LeetCode-Logs/tree/master/0088-merge-sorted-array) |
 ## Greedy
 |  |
 | ------- |
@@ -36,4 +38,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/mohammedkaif911/LeetCode-Logs/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/mohammedkaif911/LeetCode-Logs/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
