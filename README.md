@@ -20,4 +20,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mohammedkaif911/LeetCode-Logs/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/mohammedkaif911/LeetCode-Logs/tree/master/0011-container-with-most-water) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/mohammedkaif911/LeetCode-Logs/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/mohammedkaif911/LeetCode-Logs/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
