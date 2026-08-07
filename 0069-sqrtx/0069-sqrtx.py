@@ -5,7 +5,7 @@ class Solution:
         left = 1
         right = x//2
         while left <= right:
-            mid = (left + right)//2
+            mid = left + (right - left) // 2
             midsq = mid* mid
             if midsq == x:
                 return mid
