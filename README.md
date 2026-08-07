@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/mohammedkaif911/LeetCode-Logs/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/mohammedkaif911/LeetCode-Logs/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mohammedkaif911/LeetCode-Logs/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/mohammedkaif911/LeetCode-Logs/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/mohammedkaif911/LeetCode-Logs/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/mohammedkaif911/LeetCode-Logs/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/mohammedkaif911/LeetCode-Logs/tree/master/0088-merge-sorted-array) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/mohammedkaif911/LeetCode-Logs/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mohammedkaif911/LeetCode-Logs/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/mohammedkaif911/LeetCode-Logs/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/mohammedkaif911/LeetCode-Logs/tree/master/0704-binary-search) |
