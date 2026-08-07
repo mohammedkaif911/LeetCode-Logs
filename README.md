@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/mohammedkaif911/LeetCode-Logs/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/mohammedkaif911/LeetCode-Logs/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mohammedkaif911/LeetCode-Logs/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/mohammedkaif911/LeetCode-Logs/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/mohammedkaif911/LeetCode-Logs/tree/master/0704-binary-search) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/mohammedkaif911/LeetCode-Logs/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/mohammedkaif911/LeetCode-Logs/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/mohammedkaif911/LeetCode-Logs/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/mohammedkaif911/LeetCode-Logs/tree/master/0509-fibonacci-number) |
@@ -157,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/mohammedkaif911/LeetCode-Logs/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/mohammedkaif911/LeetCode-Logs/tree/master/0509-fibonacci-number) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/mohammedkaif911/LeetCode-Logs/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
