@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/mohammedkaif911/LeetCode-Logs/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/mohammedkaif911/LeetCode-Logs/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/mohammedkaif911/LeetCode-Logs/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/mohammedkaif911/LeetCode-Logs/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/mohammedkaif911/LeetCode-Logs/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/mohammedkaif911/LeetCode-Logs/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/mohammedkaif911/LeetCode-Logs/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/mohammedkaif911/LeetCode-Logs/tree/master/0232-implement-queue-using-stacks) |
+| [0682-baseball-game](https://github.com/mohammedkaif911/LeetCode-Logs/tree/master/0682-baseball-game) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -178,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/mohammedkaif911/LeetCode-Logs/tree/master/0232-implement-queue-using-stacks) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/mohammedkaif911/LeetCode-Logs/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
