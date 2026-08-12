@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/mohammedkaif911/LeetCode-Logs/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohammedkaif911/LeetCode-Logs/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/mohammedkaif911/LeetCode-Logs/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/mohammedkaif911/LeetCode-Logs/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mohammedkaif911/LeetCode-Logs/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mohammedkaif911/LeetCode-Logs/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/mohammedkaif911/LeetCode-Logs/tree/master/0169-majority-element) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mohammedkaif911/LeetCode-Logs/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/mohammedkaif911/LeetCode-Logs/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/mohammedkaif911/LeetCode-Logs/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/mohammedkaif911/LeetCode-Logs/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/mohammedkaif911/LeetCode-Logs/tree/master/0682-baseball-game) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/mohammedkaif911/LeetCode-Logs/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/mohammedkaif911/LeetCode-Logs/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/mohammedkaif911/LeetCode-Logs/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/mohammedkaif911/LeetCode-Logs/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/mohammedkaif911/LeetCode-Logs/tree/master/0509-fibonacci-number) |
 ## Recursion
