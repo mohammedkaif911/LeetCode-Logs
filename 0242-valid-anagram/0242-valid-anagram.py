@@ -17,9 +17,8 @@
 
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
-        T = sorted(t)
-        S = sorted(s)
-        if S == T:
+
+        if sorted(t) == sorted(s):
             return True
         else:
             return False
